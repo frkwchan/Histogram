@@ -1,0 +1,5 @@
+{
+  "name": "Histogram",
+  "description": "A powerful statistical analysis tool that generates histograms, calculates key metrics (Mean, StdDev), and provides AI-driven insights from CSV data.",
+  "requestFramePermissions": []
+}
